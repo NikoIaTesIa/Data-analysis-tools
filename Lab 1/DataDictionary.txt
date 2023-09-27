@@ -1,0 +1,32 @@
+SeriousDlqin2yrs
+Will the payment be overdue by 90 days or more in the next 2 years (Y/N)
+
+RevolvingUtilizationOfUnsecuredLines
+Percentage of remaining money on all credit cards (%)
+
+age
+Age (integer)
+
+NumberOfTime30-59DaysPastDueNotWorse
+Number of short-term payment delays (30-59 days) over the last 2 years (integer)
+
+DebtRatio
+Monthly interest on debt, alimony, household expenses divided by monthly income (if monthly income is unknown, then the absolute amount of payments) (%)
+
+MonthlyIncome
+Monthly income (real)
+
+NumberOfOpenCreditLinesAndLoans
+Number of loans (or credit cards) excluding mortgages (integer)
+
+NumberOfTimes90DaysLate
+Credit history: the number of serious payment delays of 90 days or more (integer)
+
+NumberRealEstateLoansOrLines
+Number of mortgages (integer)
+
+NumberOfTime60-89DaysPastDueNotWorse
+Number of medium-term payment delays (60-89 days) over the last 2 years (integer)
+
+NumberOfDependents
+The number of dependents in the family, including the client himself (integer)
